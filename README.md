@@ -14,7 +14,5 @@ Iniciando estudos em GDScript e Godot e concluindo o curso de Análise e Desenvo
 #### 📊 Linguagens mais usadas:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpaivabr&layout=compact&theme=dark)
 
-#### 🔥 Contribuição recente:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fpaivabr&theme=dracula)
 
 
