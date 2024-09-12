@@ -9,11 +9,11 @@ Iniciando estudos em GDScript e Godot e concluindo o curso de Análise e Desenvo
 💻 Java, Spring Boot, React, JavaScript
 
 #### 📈 Estatísticas do GitHub:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fpaivabr&show_icons=true&theme=dark)
 
 #### 📊 Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpaivabr&layout=compact&theme=dark)
 
 #### 🔥 Contribuição recente:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=seu-usuario&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=fpaivabr&theme=dracula)
 
