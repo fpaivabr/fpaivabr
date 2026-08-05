@@ -1,18 +1,10 @@
 # Olá! 🥺
 
-Desenvolvedor Java e Spring Boot para backend e JavaScript/React para frontend. 
-Iniciando estudos em GDScript e Godot e concluindo o curso de Análise e Desenvolvimento de Sistemas. 
+Profissional de tecnologia formado em Análise e Desenvolvimento de Sistemas, 
+direcionando minha carreira para Quality Assurance e Testes de Software. 
+Atualmente estudando automação de testes com Cypress.
 
-📍 Goiânia, Brasil  
-🎓 Análise e Desenvolvimento de Sistemas  
-💼 Procurando oportunidades de trabalho  
-💻 Java, Spring Boot, React, JavaScript
-
-#### 📈 Estatísticas do GitHub:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fpaivabr&show_icons=true&theme=dark)
-
-#### 📊 Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpaivabr&layout=compact&theme=dark)
-
-
-
+📍 Goiânia, Brasil
+🎓 Análise e Desenvolvimento de Sistemas — PUC Goiás
+💼 Procurando oportunidades de nível júnior
+💻 Cypress, JavaScript, Java, Spring Boot e SQL
