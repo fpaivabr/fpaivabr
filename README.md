@@ -1,4 +1,4 @@
-# Olá! 🥺
+# Olá! 👾
 
 Profissional de tecnologia formado em Análise e Desenvolvimento de Sistemas, 
 direcionando minha carreira para Quality Assurance e Testes de Software. 
